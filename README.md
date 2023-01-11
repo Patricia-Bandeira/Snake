@@ -1,6 +1,7 @@
 # Snake
 __*The snake game*__
-código snake que "come" os commits
+
+Código snake que "come" os commits
 
 
 [Click here](https://raw.githubusercontent.com/Patricia-Bandeira/Snake/main/github-contribution-grid-snake.svg) to see it walking! The oficial snake is in my profile´s homepage.
